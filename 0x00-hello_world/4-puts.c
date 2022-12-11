@@ -2,10 +2,10 @@
 /**
  * main - Print a line of code using puts
  *
- * return: o
+ * return:O
 */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
-	return (o);
+	return (O);
 }
